@@ -1,4 +1,4 @@
-#1768. Merge Strings Alternately
+//Merge Strings Alternately
 
 def merge_alternately(s1, s2):
     merged = []
